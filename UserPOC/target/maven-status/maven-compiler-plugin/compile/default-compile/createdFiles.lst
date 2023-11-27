@@ -1,0 +1,5 @@
+com\neosoft\UserPOC\entity\User.class
+com\neosoft\UserPOC\repository\UserRepository.class
+com\neosoft\UserPOC\SpringBootPocApplication.class
+com\neosoft\UserPOC\controller\UserController.class
+com\neosoft\UserPOC\service\UserService.class
